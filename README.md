@@ -2,14 +2,14 @@
 
 ![Img from original page](https://github.com/NewHub25/solutions-adventjs-2023/blob/main/assets/adventjs-img.png)
 
-A initiative Miguel Ángel Durán ([@midudev](https://github.com/midudev)). Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems.
+A initiative of Miguel Ángel Durán ([@midudev](https://github.com/midudev)). Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems.
 This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
 
 ## Challenges Solved
 
 | N° | Name | Difficulty level |
 |---|---|---|
-| Day 1    | First repeat gift | Easy |
+| Day 1    | ![First repeat gift](https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts) | Easy |
 | Day 2    | We start up the factory  | Easy |
 | Day 3    | The naughty | Easy |
 | Day 4    | Flip the parentheses | Easy |
