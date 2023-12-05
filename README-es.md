@@ -14,9 +14,10 @@
 | N° | Nombre | Nivel de dificultad |
 |---|---|---|
 | <i>Día 1</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">Primer regalo repetido</a> | Fácil |
-| <i>Día 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">Ponemos en marcha la fábrica | Fácil |
-| <i>Día 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">El elfo travieso | Fácil |
-| <i>Día 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Voltea los paréntesis | Fácil |
+| <i>Día 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">Ponemos en marcha la fábrica</a> | Fácil |
+| <i>Día 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">El elfo travieso</a> | Fácil |
+| <i>Día 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Voltea los paréntesis</a> | Medio |
+| <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">El camión cibernético de Papá Noel</a> | Medio |
 
 ## Cómo ejecutar estas soluciones adventJS
 
