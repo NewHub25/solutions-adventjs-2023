@@ -21,20 +21,31 @@
 ## How to run this adventJS solutions
 
 <ol>
-  <li>Have Typescript
-  <ul>
-    <li><i>Make sure you have <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> and <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> installed on your machine.</i></li>
-    <li>If you don't have it installed, you can try this:
-    <br />TypeScript in Your Project: <br /><code>npm install typescript --save-dev</code><br />or
-    <br />Globally Installing TypeScript: <br /><code>npm install -g typescript</code></li>
-      </ul>
-      </li>
-      <li>Clone this repository:
+<li>Have Typescript
+<ul>
+<li><i>Make sure you have <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> and <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> installed on your machine.</i></li>
+<li>If you don't have it installed, you can try this:
+<br />TypeScript in Your Project:
+    
+```bash
+npm install typescript --save-dev
+```
+or
+<br />
+Globally Installing TypeScript:
+    
+```bash
+npm install -g typescript
+```
+</li>
+</ul>
+</li>
+<li>Clone this repository:
 
 ```bash
   git clone https://github.com/NewHub25/solutions-adventjs-2023.git
 ```
-  </li>
+</li>
 </ol>
 
 ## You can contribute to this repository
