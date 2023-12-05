@@ -8,29 +8,36 @@
 </p>
 
 ## Challenges Solved
+
 <a href="https://github.com/NewHub25/solutions-adventjs-2023/tree/main/challenges">Find out all here</a>
 
-| N° | Name | Difficulty level |
-|---|---|---|
-|<i>Day 1</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a> | Easy |
-|<i>Day 2</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory  | Easy |
-|<i>Day 3</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf | Easy |
-|<i>Day 4</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses | Easy |
+| N°           | Name                                                                                                                       | Difficulty level |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| <i>Day 1</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a>   | Easy             |
+| <i>Day 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory | Easy             |
+| <i>Day 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf         | Easy             |
+| <i>Day 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses    | Easy             |
 
 ## How to run this adventJS solutions
 
-1. Have Typescript
-<i>Make sure you have <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> and <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> installed on your machine:</i>
-If you don't have it installed, you can try this:
-<p>TypeScript in Your Project: <br /><code>npm install typescript --save-dev</code></p>or
-<p>Globally Installing TypeScript: <br /><code>npm install -g typescript</code></p>
-
-2. Clone this repository:
-    ```bash
-    git clone https://github.com/NewHub25/solutions-adventjs-2023.git
-    ```
+<ol>
+  <li>Have Typescript
+  <ul>
+    <li><i>Make sure you have <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> and <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> installed on your machine.</i></li>
+    <li>If you don't have it installed, you can try this:
+    <br />TypeScript in Your Project: <br /><code>npm install typescript --save-dev</code><br />or
+    <br />Globally Installing TypeScript: <br /><code>npm install -g typescript</code></li>
+      </ul>
+      </li>
+      <li>Clone this repository:
+      ```bash
+        git clone https://github.com/NewHub25/solutions-adventjs-2023.git
+      ```
+  </li>
+</ol>
 
 ## You can contribute to this repository
+
 <ol>
     <li>Fork the repository</li>
     <li>Find the challenge</li>
