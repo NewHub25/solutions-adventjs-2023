@@ -4,7 +4,7 @@
 
 <p>A initiative of Miguel Ángel Durán <a href="https://github.com/midudev">@midudev</a>. Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems. Here is website <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
 </p>
-<p>This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and an analysis in <strong>Big O notation</strong>.
+<p>This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and an analysis in <strong color="red">Big O notation</strong>.
 </p>
 
 ## Challenges Solved
@@ -17,7 +17,7 @@
 | <i>Day 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory</a> | Easy |
 | <i>Day 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf</a> | Easy |
 | <i>Day 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses</a> | Medium |
-| <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Santa's CyberTruck</a> | Medium |
+| <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-05.ts">Santa's CyberTruck</a> | Medium |
 
 ## How to run this adventJS solutions
 
