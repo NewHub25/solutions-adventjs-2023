@@ -1,6 +1,6 @@
 # 🎀🎁🎄🎄🎄 Challenges before Christmas 😄🎅🫎 🎄🎄🎄
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=7000&pause=1000&color=079D00&background=CD0500&center=true&vCenter=true&random=false&width=700&lines=Advent+JavaScript)](https://git.io/typing-svg)
+![Img from original page](https://github.com/NewHub25/solutions-adventjs-2023/assets/adventjs-img.png)
 
 A initiative Miguel Ángel Durán ([@midudev](https://github.com/midudev)). Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems.
 This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
@@ -35,4 +35,7 @@ This repository going to have all solutions in <img alt="TypeScript" src="https:
 </ol>
     * Share your solution with the community!<br />
 <hr />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=7000&pause=1000&color=079D00&background=CD0500&center=true&vCenter=true&random=false&width=700&lines=Advent+JavaScript)](https://git.io/typing-svg)
+
 Thanks very much to [@midudev](https://github.com/midudev) 🎁.
