@@ -6,13 +6,14 @@ A initiative of Miguel Ángel Durán ([@midudev](https://github.com/midudev)). E
 This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
 
 ## Challenges Solved
+<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges">Find out all here</a>
 
 | N° | Name | Difficulty level |
 |---|---|---|
-|<strong>Day 1</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a> | Easy |
-|<strong>Day 2</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory  | Easy |
-|<strong>Day 3</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf | Easy |
-|<strong>Day 4</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses | Easy |
+|<i>Day 1</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a> | Easy |
+|<i>Day 2</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory  | Easy |
+|<i>Day 3</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf | Easy |
+|<i>Day 4</i>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses | Easy |
 
 ## How to run this adventJS solutions
 
