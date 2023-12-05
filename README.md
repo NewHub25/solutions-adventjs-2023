@@ -9,10 +9,10 @@ This repository going to have all solutions in <img alt="TypeScript" src="https:
 
 | N° | Name | Difficulty level |
 |---|---|---|
-|Day 1|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a> | Easy |
-|Day 2|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory  | Easy |
-|Day 3|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty | Easy |
-|Day 4|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses | Easy |
+|<strong>Day 1</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a> | Easy |
+|<strong>Day 2</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory  | Easy |
+|<strong>Day 3</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf | Easy |
+|<strong>Day 4</strong>|<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses | Easy |
 
 ## How to run this adventJS solutions
 
