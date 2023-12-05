@@ -33,6 +33,6 @@ This repository going to have all solutions in <img alt="TypeScript" src="https:
     <li>Upload your solution in a separate branch</li>
     <li>Make a pull request</li>
 </ol>
-    * Share your solution with the community!
-
+    * Share your solution with the community!<br />
+<hr />
 Thanks very much to [@midudev](https://github.com/midudev) 🎁.
