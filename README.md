@@ -25,15 +25,17 @@
 <ul>
 <li><i>Make sure you have <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> and <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> installed on your machine.</i></li>
 <li>If you don't have it installed, you can try this:
-<br />TypeScript in Your Project:
-    
+<br />
+TypeScript in Your Project:
+
 ```bash
 npm install typescript --save-dev
 ```
 or
 <br />
+<br />
 Globally Installing TypeScript:
-    
+
 ```bash
 npm install -g typescript
 ```
