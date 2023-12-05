@@ -27,10 +27,12 @@ This repository going to have all solutions in <img alt="TypeScript" src="https:
     ```
 
 ## You can contribute to this repository
-    - Fork the repository
-    - Find the challenge
-    - Upload your solution in a separate branch.
-    - Make a pull request
+<ol>
+    <li>Fork the repository</li>
+    <li>Find the challenge</li>
+    <li>Upload your solution in a separate branch</li>
+    <li>Make a pull request</li>
+</ol>
     * Share your solution with the community!
 
 Thanks very much to [@midudev](https://github.com/midudev) 🎁.
