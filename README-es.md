@@ -2,7 +2,7 @@
 
 <a href="https://adventjs.dev/es"><img src="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/assets/adventjs-img.png"> </a>
 
-<p>Una iniciativa de Miguel Ángel Durán [@midudev](https://github.com/midudev) . Todos los días habrá desafíos antes de Navidad para que crezcas tu capacidad de programación para resolver nuevos problemas. Aquí está el sitio web <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
+<p>Una iniciativa de Miguel Ángel Durán <a href="https://github.com/midudev">@midudev</a> . Todos los días habrá desafíos antes de Navidad para que crezcas tu capacidad de programación para resolver nuevos problemas. Aquí está el sitio web <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
 </p>
 <p>Este repositorio tendrá todas las soluciones en <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> y un análisis en <strong>complejidad Big O</strong>.
 </p>
