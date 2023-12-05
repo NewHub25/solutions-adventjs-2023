@@ -1,9 +1,9 @@
-a# 🎀🎁🎄🎄🎄 Challenges before Christmas 😄🎅🫎 🎄🎄🎄
+# 🎀🎁🎄🎄🎄 Challenges before Christmas 😄🎅🫎 🎄🎄🎄
 
 <a href="https://adventjs.dev/es"><img src="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/assets/adventjs-img.png"></a>
 
-A initiative of Miguel Ángel Durán ([@midudev](https://github.com/midudev)). Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems. Here website <a href="https://adventjs.dev/es">adventjs.dev/es</a>
-This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
+A initiative of Miguel Ángel Durán ([@midudev](https://github.com/midudev)). Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems. Here is website <a href="https://adventjs.dev/es">adventjs.dev/es</a>
+This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and an analysis in <strong>Big O complexity</strong>.
 
 ## Challenges Solved
 <a href="https://github.com/NewHub25/solutions-adventjs-2023/tree/main/challenges">Find out all here</a>
