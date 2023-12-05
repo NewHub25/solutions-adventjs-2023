@@ -9,10 +9,10 @@ This repository going to have all solutions in <img alt="TypeScript" src="https:
 
 | N° | Name | Difficulty level |
 |---|---|---|
-| Day 1    | ![First repeat gift](https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts) | Easy |
-| Day 2    | We start up the factory  | Easy |
-| Day 3    | The naughty | Easy |
-| Day 4    | Flip the parentheses | Easy |
+|Day 1| <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a> | Easy |
+|Day 2| We start up the factory  | Easy |
+|Day 3| The naughty | Easy |
+|Day 4| Flip the parentheses | Easy |
 
 ## How to run this adventJS solutions
 
