@@ -1,0 +1,66 @@
+# 🎀🎁🎄🎄🎄 Retos antes de Navidad 😄🎅🫎 🎄🎄🎄
+
+<a href="https://adventjs.dev/es"><img src="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/assets/adventjs-img.png"> </a>
+
+<p>Una iniciativa de Miguel Ángel Durán ([@midudev](https://github.com/midudev)). Todos los días habrá desafíos antes de Navidad para que crezcas tu capacidad de programación para resolver nuevos problemas. Aquí está el sitio web <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
+</p>
+<p>Este repositorio tendrá todas las soluciones en <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> y un análisis en <strong>complejidad Big O</strong>.
+</p>
+
+## Desafíos resueltos
+
+<a href="https://github.com/NewHub25/solutions-adventjs-2023/tree/main/challenges">Descúbrelo todo aquí</a>
+
+| N° | Nombre | Nivel de dificultad |
+| ------------ | -------------------------------------------------- -------------------------------------------------- ---------------------- | ---------------- |
+| <i>Día 1</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">Primer regalo repetido</a> | Fácil |
+| <i>Día 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">Ponemos en marcha la fábrica | Fácil |
+| <i>Día 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">El elfo travieso | Fácil |
+| <i>Día 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Voltea los paréntesis | Fácil |
+
+## Cómo ejecutar estas soluciones adventJS
+
+<ol>
+<li>Tener texto mecanografiado
+<ul>
+<li><i>Asegúrate de tener <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" / > y <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> instalado en su máquina.</i> </li>
+<li>Si no lo tienes instalado, puedes probar esto:
+<br />
+TypeScript en su proyecto:
+
+```golpecito
+npm instala mecanografiado --save-dev
+```
+o
+<br />
+<br />
+Instalación global de TypeScript:
+
+```golpecito
+instalación npm -g mecanografiado
+```
+</li>
+</ul>
+</li>
+<li>Clonar este repositorio:
+
+```golpecito
+   clon de git https://github.com/NewHub25/solutions-adventjs-2023.git
+```
+</li>
+</ol>
+
+## Puedes contribuir a este repositorio
+
+<ol>
+     <li>Bifurcar el repositorio</li>
+     <li>Encuentra el desafío</li>
+     <li>Sube tu solución en una rama separada</li>
+     <li>Hacer una solicitud de extracción</li>
+</ol>
+     * ¡Comparte tu solución con la comunidad!<br />
+<hora/>
+
+[![Escribiendo SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=7000&pause=1000&color=079D00&background=CD0500&center=true&vCenter=true&random=false&width=700&lines=Advent+JavaScript )](https://git.io/typing-svg)
+
+Muchas gracias a [@midudev](https://github.com/midudev) 🎁.
