@@ -4,7 +4,7 @@
 
 <p>A initiative of Miguel Ángel Durán <a href="https://github.com/midudev">@midudev</a>. Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems. Here is website <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
 </p>
-<p>This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and an analysis in <strong>Big O complexity</strong>.
+<p>This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and an analysis in <strong>Big O notation</strong>.
 </p>
 
 ## Challenges Solved
