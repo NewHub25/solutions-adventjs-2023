@@ -24,6 +24,7 @@ This repository going to have all solutions in <img alt="TypeScript" src="https:
 2. Clone this repository:
     ```bash
     git clone https://github.com/NewHub25/solutions-adventjs-2023.git
+    ```
 
 ## You can contribute to this repository
     - Fork the repository
