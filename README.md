@@ -6,7 +6,7 @@ A initiative of Miguel Ángel Durán ([@midudev](https://github.com/midudev)). E
 This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />.
 
 ## Challenges Solved
-<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges">Find out all here</a>
+<a href="https://github.com/NewHub25/solutions-adventjs-2023/tree/main/challenges">Find out all here</a>
 
 | N° | Name | Difficulty level |
 |---|---|---|
