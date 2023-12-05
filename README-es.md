@@ -2,17 +2,17 @@
 
 <a href="https://adventjs.dev/es"><img src="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/assets/adventjs-img.png"> </a>
 
-<p>Una iniciativa de Miguel Ángel Durán ([@midudev](https://github.com/midudev)). Todos los días habrá desafíos antes de Navidad para que crezcas tu capacidad de programación para resolver nuevos problemas. Aquí está el sitio web <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
+<p>Una iniciativa de Miguel Ángel Durán ([@midudev](https://github.com/midudev)) . Todos los días habrá desafíos antes de Navidad para que crezcas tu capacidad de programación para resolver nuevos problemas. Aquí está el sitio web <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
 </p>
 <p>Este repositorio tendrá todas las soluciones en <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> y un análisis en <strong>complejidad Big O</strong>.
 </p>
 
 ## Desafíos resueltos
 
-<a href="https://github.com/NewHub25/solutions-adventjs-2023/tree/main/challenges">Descúbrelo todo aquí</a>
+<a href="https://github.com/NewHub25/solutions-adventjs-2023/tree/main/challenges">Descúbrelos todos aquí</a>
 
 | N° | Nombre | Nivel de dificultad |
-| ------------ | -------------------------------------------------- -------------------------------------------------- ---------------------- | ---------------- |
+|---|---|---|
 | <i>Día 1</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">Primer regalo repetido</a> | Fácil |
 | <i>Día 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">Ponemos en marcha la fábrica | Fácil |
 | <i>Día 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">El elfo travieso | Fácil |
@@ -21,31 +21,31 @@
 ## Cómo ejecutar estas soluciones adventJS
 
 <ol>
-<li>Tener texto mecanografiado
+<li>Tener Typescript
 <ul>
-<li><i>Asegúrate de tener <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" / > y <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> instalado en su máquina.</i> </li>
+<li><i>Asegúrate de tener <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> y <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> instalado en su máquina.</i> </li>
 <li>Si no lo tienes instalado, puedes probar esto:
 <br />
 TypeScript en su proyecto:
 
-```golpecito
-npm instala mecanografiado --save-dev
+```bash
+npm install typescript --save-dev
 ```
 o
 <br />
 <br />
 Instalación global de TypeScript:
 
-```golpecito
-instalación npm -g mecanografiado
+```bash
+npm install -g typescript
 ```
 </li>
 </ul>
 </li>
 <li>Clonar este repositorio:
 
-```golpecito
-   clon de git https://github.com/NewHub25/solutions-adventjs-2023.git
+```bash
+   git clone https://github.com/NewHub25/solutions-adventjs-2023.git
 ```
 </li>
 </ol>
@@ -53,10 +53,10 @@ instalación npm -g mecanografiado
 ## Puedes contribuir a este repositorio
 
 <ol>
-     <li>Bifurcar el repositorio</li>
+     <li>Has un fork del repositorio</li>
      <li>Encuentra el desafío</li>
-     <li>Sube tu solución en una rama separada</li>
-     <li>Hacer una solicitud de extracción</li>
+     <li>Sube tu solución en otra branch</li>
+     <li>Has un Pull Request</li>
 </ol>
      * ¡Comparte tu solución con la comunidad!<br />
 <hora/>

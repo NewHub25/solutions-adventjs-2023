@@ -11,12 +11,12 @@
 
 <a href="https://github.com/NewHub25/solutions-adventjs-2023/tree/main/challenges">Find out all here</a>
 
-| N°           | Name                                                                                                                       | Difficulty level |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| <i>Day 1</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a>   | Easy             |
-| <i>Day 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory | Easy             |
-| <i>Day 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf         | Easy             |
-| <i>Day 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses    | Easy             |
+| N° | Name | Difficulty level |
+|---|---|---|
+| <i>Day 1</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-01.ts">First repeat gift</a> | Easy |
+| <i>Day 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">We start up the factory | Easy |
+| <i>Day 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf | Easy |
+| <i>Day 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses | Easy |
 
 ## How to run this adventJS solutions
 
@@ -31,6 +31,7 @@ TypeScript in Your Project:
 ```bash
 npm install typescript --save-dev
 ```
+
 or
 <br />
 <br />
@@ -39,6 +40,7 @@ Globally Installing TypeScript:
 ```bash
 npm install -g typescript
 ```
+
 </li>
 </ul>
 </li>
@@ -47,6 +49,7 @@ npm install -g typescript
 ```bash
   git clone https://github.com/NewHub25/solutions-adventjs-2023.git
 ```
+
 </li>
 </ol>
 
