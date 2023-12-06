@@ -17,7 +17,8 @@
 | <i>Día 2</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-02.ts">Ponemos en marcha la fábrica</a> | Fácil |
 | <i>Día 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">El elfo travieso</a> | Fácil |
 | <i>Día 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Voltea los paréntesis</a> | Medio |
-| <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">El camión cibernético de Papá Noel</a> | Medio |
+| <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-05.ts">El camión cibernético de Papá Noel</a> | Medio |
+| <i>Day 6</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-06.ts">Los renos a prueba</a> | Fácil |
 
 ## Cómo ejecutar estas soluciones adventJS
 

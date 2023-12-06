@@ -21,6 +21,7 @@
 | <i>Day 3</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-03.ts">The naughty elf</a> | Easy |
 | <i>Day 4</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-04.ts">Flip the parentheses</a> | Medium |
 | <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-05.ts">Santa's CyberTruck</a> | Medium |
+| <i>Day 6</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-06.ts">Reindeers tested</a> | Easy |
 
 ## How to run this adventJS solutions
 
