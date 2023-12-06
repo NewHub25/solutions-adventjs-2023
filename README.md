@@ -1,7 +1,7 @@
 # 🎀🎁🎄🎄🎄 Challenges before Christmas 😄🎅🫎 🎄🎄🎄
 
 <h4 align="right">
-<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/README-es.md">Cambiar a español - 🇪🇸</a>
+<a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/README-es.md">Cambiar a español 📖</a>
 </h4>
 <a href="https://adventjs.dev/es"><img src="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/assets/adventjs-img.png"></a>
 
