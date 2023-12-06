@@ -4,7 +4,7 @@
 
 <p>A initiative of Miguel Ángel Durán <a href="https://github.com/midudev">@midudev</a>. Every day there'll be challenges before Christmas so that you grow your programming ability to solve new problems. Here is website <a href="https://adventjs.dev/es">adventjs.dev/es</a>.
 </p>
-<p>This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and an analysis in <strong color="red">Big O notation</strong>.
+<p>This repository going to have all solutions in <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> and an analysis in <strong>Big O notation</strong>.
 </p>
 
 ## Challenges Solved
@@ -64,6 +64,9 @@ npm install -g typescript
 </ol>
     * Share your solution with the community!<br />
 <hr />
+
+> .[!NOTE].
+> This solutions are from my perspective, because there's not one solution
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=7000&pause=1000&color=079D00&background=CD0500&center=true&vCenter=true&random=false&width=700&lines=Advent+JavaScript)](https://git.io/typing-svg)
 
