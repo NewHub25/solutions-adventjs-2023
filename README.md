@@ -65,7 +65,7 @@ npm install -g typescript
     * Share your solution with the community!<br />
 <hr />
 
-> .[!NOTE].
+> [!NOTE]
 > This solutions are from my perspective, because there's not one solution
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=7000&pause=1000&color=079D00&background=CD0500&center=true&vCenter=true&random=false&width=700&lines=Advent+JavaScript)](https://git.io/typing-svg)
