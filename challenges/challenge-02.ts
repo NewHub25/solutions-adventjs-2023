@@ -1,5 +1,5 @@
 function manufacture(gifts: string[], materials: string) {
-  const result = [];
+  const result: Array<string> = [];
   for (const gift of gifts) {
     let temp = '';
     for (const cc of gift) {

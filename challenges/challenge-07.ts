@@ -47,8 +47,8 @@ function drawGift_2(size: number, symbol: string): string {
   }
   return result.join('\n') + '\n';
 }
-const result = drawGift(4, '*');
-console.log(result);
+const log = drawGift(4, '*');
+console.log(log);
 /**
    #### 
   #**## 

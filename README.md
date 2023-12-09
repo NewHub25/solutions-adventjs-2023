@@ -23,6 +23,7 @@
 | <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-05.ts">Santa's CyberTruck</a> | Medium |
 | <i>Day 6</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-06.ts">Reindeers tested</a> | Easy |
 | <i>Day 7</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-07.ts">3D Boxes</a> | Easy |
+| <i>Day 8</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-08.ts">Sorting out the store</a> | Medium |
 
 ## How to run this adventJS solutions
 

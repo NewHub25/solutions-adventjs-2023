@@ -23,6 +23,7 @@
 | <i>Day 5</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-05.ts">El camión cibernético de Papá Noel</a> | Medio |
 | <i>Day 6</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-06.ts">Los renos a prueba</a> | Fácil |
 | <i>Day 7</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-07.ts">Las cajas en 3D</a> | Fácil |
+| <i>Day 8</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-08.ts">Ordenando el almacén</a> | Medio |
 
 ## Cómo ejecutar estas soluciones adventJS
 

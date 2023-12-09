@@ -22,8 +22,8 @@ function cyberReindeer(road: string, time: number): Array<string> {
 
 const road = 'S..|..|||..';
 const time = 10; // unidades de tiempo
-const result = cyberReindeer(road, time);
-console.log(result);
+const log = cyberReindeer(road, time);
+console.log(log);
 /**
 [ 'S..|..|||..',
   '.S.|..|||..',
