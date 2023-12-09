@@ -28,3 +28,8 @@ function adjustLights_2(lights: Array<'🟢' | '🔴'>): number {
 const change = adjustLights_2(['🔴', '🔴', '🟢', '🟢', '🔴', '🔴']);
 
 console.log(change);
+
+
+/**
+The time complexity of the provided code is O(n), where n is the length of the input array. This is due to the linear iteration through each element of the array using the reduce method, resulting in a proportional relationship between the input size and the time taken.
+ */
