@@ -25,6 +25,7 @@
 | <i>Day 7</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-07.ts">3D Boxes</a> | Easy |
 | <i>Day 8</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-08.ts">Sorting out the store</a> | Medium |
 | <i>Day 9</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-09.ts">Alternate the lights</a> | Easy |
+| <i>Day 10</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-10.ts">Create your own Christmas Tree</a> | Easy |
 
 ## How to run this adventJS solutions
 
