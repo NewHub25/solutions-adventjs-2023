@@ -26,6 +26,7 @@
 | <i>Day 8</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-08.ts">Ordenando el almacén</a> | Medio |
 | <i>Day 9</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-09.ts">Alterna las luces</a> | Fácil |
 | <i>Day 10</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-10.ts">Crea tu propio arból de navidad</a> | Fácil |
+| <i>Day 11</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-11.ts">Los elfos estudiosos</a> | Medio |
 
 ## Cómo ejecutar estas soluciones adventJS
 
