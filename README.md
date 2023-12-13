@@ -27,6 +27,7 @@
 | <i>Day 9</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-09.ts">Alternate the lights</a> | Easy |
 | <i>Day 10</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-10.ts">Create your own Christmas Tree</a> | Easy |
 | <i>Day 11</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-11.ts">The studious elves</a> | Medium |
+| <i>Day 12</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-12.ts">Is a valid copy?</a> | Medium |
 
 ## How to run this adventJS solutions
 
