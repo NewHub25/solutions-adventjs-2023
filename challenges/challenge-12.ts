@@ -1,25 +1,16 @@
 function checkIsValidCopy(original: string, copy: string) {
-  if (original.length !== copy.length) return false;
-  const validator = ['[A-Za-z]', '#', '\\+', ':', '\\.', ' '];
-  const regexs = validator.map(v => RegExp(v));
-  for (let i = 0; i < original.length; i++) {
-    const str = original[i];
-    const srtCopy = copy[i];
-    if (str === srtCopy || str.toLowerCase() === srtCopy) continue;
-
-    let boo = false;
-    for (let j = 0; j < regexs.length; j++) {
-      const currRegex = regexs[j];
-      const restRegexs = [...regexs].splice(j + 1);
-      const someRegex = restRegexs.some(re => re.test(srtCopy));
-      if (currRegex.test(str) && someRegex) {
-        boo = true;
-        break;
-      }
-    }
-    if (!boo) return boo;
+  let templateRegex = '';
+  const oldLetters = '#+:. ';
+  for (const str of original) {
+    let tempRegex = str + str.toLowerCase();
+    let ifIndex = oldLetters.indexOf(str);
+    ifIndex = ifIndex < 0 ? 0 : ifIndex;
+    tempRegex += oldLetters.substring(ifIndex);
+    templateRegex += `[${tempRegex}]`;
   }
-  return true;
+  templateRegex = '^' + templateRegex + '$';
+  const regexp = RegExp(templateRegex);
+  return regexp.test(copy);
 }
 console.log(checkIsValidCopy('Santa Claus is coming', 'sa#ta Cl#us i+ comin#')) // true
 /**
