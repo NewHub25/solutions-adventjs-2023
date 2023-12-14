@@ -28,6 +28,7 @@
 | <i>Day 10</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-10.ts">Create your own Christmas Tree</a> | Easy |
 | <i>Day 11</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-11.ts">The studious elves</a> | Medium |
 | <i>Day 12</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-12.ts">Is a valid copy?</a> | Medium |
+| <i>Day 13</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-13.ts">Calculating time</a> | Easy |
 
 ## How to run this adventJS solutions
 
