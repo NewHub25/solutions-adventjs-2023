@@ -31,6 +31,7 @@
 | <i>Day 13</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-13.ts">Calculating time</a> | Easy |
 | <i>Day 14</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-14.ts">Avoid the alarm</a> | Medium |
 | <i>Day 15</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-15.ts">Autonomous robot</a> | Medium |
+| <i>Day 16</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-16.js">Deployment on friday</a> | Easy |
 
 ## How to run this adventJS solutions
 
