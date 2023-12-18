@@ -32,6 +32,7 @@
 | <i>Day 14</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-14.ts">Avoid the alarm</a> | Medium |
 | <i>Day 15</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-15.ts">Autonomous robot</a> | Medium |
 | <i>Day 16</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-16.js">Deployment on friday</a> | Easy |
+| <i>Day 17</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-17.ts">Optimizing the rental</a> | Easy |
 
 ## How to run this adventJS solutions
 
