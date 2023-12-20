@@ -33,6 +33,9 @@
 | <i>Day 15</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-15.ts">Robot autónomo</a> | Medio |
 | <i>Day 16</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-16.js">Despliegue en viernes</a> | Fácil |
 | <i>Day 17</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-17.ts">Optimizando el alquiler</a> | Fácil |
+| <i>Day 18</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-18.ts">El reloj digital</a> | Difícil |
+| <i>Day 19</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-19.ts">Enfrenta el sabotaje</a> | Medio |
+| <i>Day 20</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-20.ts">Distribuye el peso</a> | Difícil |
 
 ## Cómo ejecutar estas soluciones adventJS
 
