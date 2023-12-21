@@ -36,6 +36,7 @@
 | <i>Day 18</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-18.ts">Digital clock</a> | Hard |
 | <i>Day 19</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-19.ts">Face the sabotage</a> | Medium |
 | <i>Day 20</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-20.ts">Distribute the weight</a> | Hard |
+| <i>Day 21</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-21.ts">Binary message</a> | Medium |
 
 ## How to run this adventJS solutions
 
