@@ -1,27 +1,28 @@
+/**
+ *
+ * @param {string} code
+ * @returns {number}
+ */
 function compile(code) {
-  let counter = arguments[1] ?? 0;
-  let indexLoopStart = -1;
-  let indexLoopEnd = -1;
-  let subCodeConditional = "";
-  code = code.replace(/¿.+?\?/, (match) => {
-    subCodeConditional = match.substring(1, match.length - 1);
-    return "";
-  });
-  for (let i = 0; i < code.length; i++) {
+  let largeCode = "";
+  for (let i = 0, l = -1; i < code.length; i++) {
     const char = code[i];
-    if (char === "+") counter++;
-    if (char === "-") counter--;
-    if (char === "*") counter *= 2;
-    if (char === "%") indexLoopStart = i;
-    if (char === "<") indexLoopEnd = i;
+    if (char === "%" && l < 0) {
+      l = i;
+    } else if (char === "<" && l >= 0) {
+      largeCode += char.substring(l + 1, i);
+      l = -1;
+    } else largeCode += char;
   }
-  if (indexLoopStart >= 0 && indexLoopEnd > indexLoopStart) {
-    const subCodeLoop = code.substring(indexLoopStart + 1, indexLoopEnd);
-    counter = compile(subCodeLoop, counter);
+  let cont = 0;
+  for (let j = 0, ignore = false; j < largeCode.length; j++) {
+    const str = largeCode[j];
+    if (str === "?") ignore = false;
+    if (ignore) continue;
+    cont += str === "+" && +1;
+    cont += str === "-" && -1;
+    if (str === "¿") ignore = !(cont > 0);
   }
-  if (subCodeConditional && counter > 0)
-    return compile(subCodeConditional, counter);
-  return counter;
 }
 // console.log(compile("+++<++%")); // 3
 // console.log(compile("++%++<")); // 6
