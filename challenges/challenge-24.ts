@@ -14,7 +14,7 @@ function getStaircasePaths(steps: number, maxJump: number) {
   return result;
 }
 console.log(getStaircasePaths(2, 1));
-console.log(getStaircasePaths(3,3));
+console.log(getStaircasePaths(3, 3));
 /**
 The time complexity of the provided code is exponential, specifically O(m^n), where:
 
@@ -27,3 +27,21 @@ In a more concise form:
 Time complexity: O(m^n)
 Space complexity: O(n)
  */
+
+// Another way of ressolving:
+function* generatePaths(steps: number, maxJump: number, currentPath: number[] = []) {
+  const remainingSteps = steps - currentPath.reduce((sum, step) => sum + step, 0);
+
+  if (remainingSteps === 0) {
+    yield [...currentPath];
+    return;
+  }
+
+  for (let jump = 1; jump <= maxJump && jump <= remainingSteps; jump++) {
+    yield* generatePaths(steps, maxJump, [...currentPath, jump]);
+  }
+}
+
+function getStaircasePathsV2(steps: number, maxJump: number) {
+  return Array.from(generatePaths(steps, maxJump));
+}
