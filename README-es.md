@@ -37,6 +37,10 @@
 | <i>Day 19</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-19.ts">Enfrenta el sabotaje</a> | Medio |
 | <i>Day 20</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-20.ts">Distribuye el peso</a> | Difícil |
 | <i>Day 21</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-21.ts">Mensaje binario</a> | Medio |
+| <i>Day 22</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-22.js">Lenguaje de programación</a> | Fácil |
+| <i>Day 23</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-23.ts">La comida de Navidad</a> | Fácil |
+| <i>Day 24</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-24.ts">Brincos en la escalera</a> | Medio |
+| <i>Day 25</i> | <a href="https://github.com/NewHub25/solutions-adventjs-2023/blob/main/challenges/challenge-25.ts">Calculando distancias</a> | Medio |
 
 ## Cómo ejecutar estas soluciones adventJS
 
